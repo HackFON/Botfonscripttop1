@@ -1,0 +1,13 @@
+{
+  "name": "roblox-script-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Roblox scripts",
+  "main": "render_bot.js",
+  "scripts": {
+    "start": "node render_bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.7"
+  }
+}
